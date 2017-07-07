@@ -1,0 +1,7 @@
+language: objective-c
+osx_image: xcode8
+xcode_workspace: TGCameraViewController.xcworkspace
+xcode_scheme:
+  - TGCameraViewControllerExample
+  - TGCameraViewControllerExampleSwift
+xcode_sdk: iphonesimulator10.0

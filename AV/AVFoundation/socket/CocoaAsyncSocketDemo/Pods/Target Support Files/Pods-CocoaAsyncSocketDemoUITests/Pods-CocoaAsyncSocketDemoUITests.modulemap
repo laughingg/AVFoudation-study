@@ -1,0 +1,6 @@
+framework module Pods_CocoaAsyncSocketDemoUITests {
+  umbrella header "Pods-CocoaAsyncSocketDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
